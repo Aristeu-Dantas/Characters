@@ -1,0 +1,30 @@
+BANCO DE DADOS CLOUDANT. 
+
+--------------------------------------------------
+
+{
+  "apikey": "9STXqn0I_yXxDTEomfF6YzLUqhUvCA5eTUlGszUjHNYO",
+
+  "url": "https://8685b21f-dcdc-4864-a9bc-84e5121ccc12-bluemix.cloudantnosqldb.appdomain.cloud",
+
+}
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+
+{ 
+  "apikey": "NG2rOSwViGe0FSXlDhR-77a2BHC9xHnMFsmauyIXW6C4",
+
+  "url": "https://8685b21f-dcdc-4864-a9bc-84e5121ccc12-bluemix.cloudantnosqldb.appdomain.cloud",
+
+}
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+
+{
+  "apikey": "U_ds_Yz030yGiYmEmSks8Tbslr39XHf7HiN5M38U-rpV",
+
+  "url": "https://8685b21f-dcdc-4864-a9bc-84e5121ccc12-bluemix.cloudantnosqldb.appdomain.cloud",
+
+}
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
