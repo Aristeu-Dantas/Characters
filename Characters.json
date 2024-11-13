@@ -1,0 +1,50 @@
+[
+{
+"_id": "176e7596d28c035c8f5a94214d5132f5",
+"_rev": "4-65fcb12408f20c144877d4228f533b91",
+"char": "Gandalf Mithrandir Olóri",
+"type": "Maiar",
+"race": "Mage",
+"power": 5
+},
+{
+"_id": "28e87f6b1d40ebb6cadd8ea7bf08313b",
+"_rev": "1-a384943e8de7ffa990e081f3119cd1dc",
+"char": "Alatar",
+"type": "Maiar",
+"race": "Mage",
+"power": 3
+},
+{
+"_id": "a63894a8245756e004b780a2f5ef0004",
+"_rev": "1-814c433624bcb9d39d13819fbea5e559",
+"char": "Albus Dumbledore",
+"type": "Witch",
+"race": "Mage",
+"power": 5
+},
+{
+"_id": "c3161b15ffa7b8ecd309ca3350e03c90",
+"_rev": "1-a44059a2925366833c7e3d24686cae2c",
+"char": "Pallando",
+"type": "Maiar",
+"race": "Mage",
+"power": 3
+},
+{
+"_id": "d01fe800841fdf901fe47ea477fd8879",
+"_rev": "2-9433093ba52e112d2f9e923f9affc625",
+"char": "Saruman",
+"type": "Maiar",
+"race": "Mage",
+"power": 5
+},
+{
+"_id": "d01fe800841fdf901fe47ea477ff5385",
+"_rev": "1-4e1b16ac6b4c903a1ae4eece258ee2cf",
+"char": "Radagast",
+"type": "Maiar",
+"race": "Mage",
+"power": 3
+}
+]
